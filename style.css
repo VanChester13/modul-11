@@ -1,0 +1,24 @@
+
+.card-header {
+    background: rgb(116, 197, 190);
+    border-color: black;
+    border-style: solid;
+    border-width: medium;
+}
+.card-body { 
+    background: rgb(154, 207, 214);
+    border-color: black;
+    border-style: solid;
+    border-width: medium;
+}
+
+
+
+.m-0 {
+    background: rgb(201, 142, 201);
+    line-height: 60px;
+    border-color: black;
+    border-style: solid;
+    border-width: medium;
+}
+
